@@ -1,2 +1,2 @@
 # mittpedraza.live
-websute
+website
